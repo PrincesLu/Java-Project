@@ -14,7 +14,7 @@ public class week5{
 		    	System.out.println("Welcome miss! ");
 		    	break;
 		    case "Hopper":
-		    	System.out.println("Please go to the other floor ");
+		    	System.out.println("Please go to the other floor! ");
 		    	break;
 		    default:
 		    	System.out.println("Try again later");
